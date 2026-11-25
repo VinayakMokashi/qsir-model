@@ -118,8 +118,8 @@ Running the script produces two figures:
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/VinayakMokashi/QSIR-Model.git
-cd QSIR-Model
+git clone https://github.com/VinayakMokashi/qsir-model.git
+cd qsir-model
 
 # 2. Install the dependencies (only needed once)
 julia setup.jl
